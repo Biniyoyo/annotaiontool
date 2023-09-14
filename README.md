@@ -1,6 +1,6 @@
 # Annotation Tppl
 
-Objective: This software tool is used to analyze image parts for the purpose of medical examination.
+Objective: This software tool serves the purpose of scrutinizing image components specifically for medical diagnostics.
 
  Python 3.9
  

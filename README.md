@@ -15,7 +15,6 @@ I developed this application out of a personal drive to contribute to real-time 
  1) Install python3
  2) pip3 install PyQt5 5.15.7 ﻿pandas 1.5.3 ﻿opencv-python 4.7.0.68 ﻿openpyxl 3.0.10
  3) python3 main.py
-    
-<img width="1424" alt="test" src="https://github.com/Biniyoyo/annotaiontool/test.jpg">
-![Demo]("https://github.com/Biniyoyo/annotaiontool/test.jpg")
+
+<img width="1440" alt="demo" src="https://github.com/Biniyoyo/annotaiontool/assets/84908082/d3fd6c9c-b606-4a44-a177-569e13c2fc8e">
 

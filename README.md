@@ -17,3 +17,5 @@ I developed this application out of a personal drive to contribute to real-time 
  3) python3 main.py
     
 <img width="1424" alt="test" src="https://github.com/Biniyoyo/annotaiontool/test.jpg">
+![Demo]("https://github.com/Biniyoyo/annotaiontool/test.jpg")
+

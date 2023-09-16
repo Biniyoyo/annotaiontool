@@ -1,6 +1,7 @@
-# Annotation Tppl
+# Annotation Tool
 
 Objective: This software tool serves the purpose of scrutinizing image components specifically for medical diagnostics.
+I developed this application out of a personal drive to contribute to real-time image diagnosis processes in hospitals. This application not only facilitates the labeling of images but also stores detailed information for each label. Furthermore, the stored information for each label can be easily exported, enhancing the efficiency and effectiveness of the diagnosis process.
 
  Python 3.9
  
